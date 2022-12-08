@@ -1,3 +1,5 @@
+<img src="https://github.com/brianjtarte/brianjtarte/blob/main/Brian%20Tarte.png">
+
 ### Hi there 👋
 
 <!--

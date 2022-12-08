@@ -1,4 +1,4 @@
-![header img](./images/brian_tarte.png)
+![header img](./images/b_tarte.png)
 
 ### Hi there 👋
 

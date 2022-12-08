@@ -1,4 +1,4 @@
-<img src="https://github.com/brianjtarte/brianjtarte/blob/main/Brian%20Tarte.png">
+![header img](./images/brian_tarte.png)
 
 ### Hi there 👋
 

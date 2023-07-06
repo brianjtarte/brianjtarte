@@ -11,7 +11,7 @@ Fast-forward almost 12 years into my career, having dabbled in a self-taught app
 
 Enter Code Fellows, a school offering an accelerated software development program that provided me with a newfound skillset. Through Code Fellows, I graduated with a certificate in Advanced Software Development, with a focus on Python.  
 
-As I navigated the waters of learning software development, I came to realize that my "home" is in coding, be it development, security, or data analytics. Even when my role didn't directly call for it, I've found a way to integrate coding; whether it be a simple application to help with tracking returns and re-capturing nearly $160k in revenue, or building out a compresensive dashboard to assist the C-suite in making well-informed decisions to drive revenue generation. I've always found a way.
+As I navigated the waters of learning software development, I came to realize that my "home" is in coding, be it development, security, or data analytics. Even when my role didn't directly call for it, I've found a way to integrate coding; whether it be a simple application to help with tracking returns and re-capturing nearly $160k in revenue or building out a comprehensive dashboard to assist the C-suite in making well-informed decisions to drive revenue generation. I've always found a way.
   
 
 <br/>  
